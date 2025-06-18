@@ -12,7 +12,7 @@ DeepSeek4Free but with additional features
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/deepseek4free.git
+git clone https://github.com/Doremii109/deepseek4free-fix
 cd deepseek4free
 ```
 
